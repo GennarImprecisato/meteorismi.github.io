@@ -20,8 +20,8 @@ author:
 ###############################################
 
 navbar-links:
-  Chi siamo: "aboutme"
-  Manifesto Meteorista:
+  Chi siamo: "chisiamo"
+  Manifesto Meteorista: "manifestometeorista"
     
 
 ################
